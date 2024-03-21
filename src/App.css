@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+Header{
+  margin-bottom: 20px;
+}
+
+.TodoInput{
+  margin-bottom: 20px;
+}
+
+.TodoInput input{
+  width: 500px;
+  height: 40px;
+  
+  border-radius: 5px;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+}
+
+.TodoInput button{
+  width: 100px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: #0ec7ff !important;
+  cursor: pointer;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.TodoItem button{
+  width: 100px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: #0ec7ff !important;
+  cursor: pointer;
+}
+
+#filter{
+  margin-bottom: 20px;
+}
+
+
+
